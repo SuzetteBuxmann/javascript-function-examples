@@ -17,5 +17,6 @@ Comparator function to sort a javascript array of objects.
 
 Javascript function which takes an array (in this case a sparse array) as argument and returns the number of elements in that array (as opposed to the array.length method).
 
-
-
+Constructor functions and prototype: examples and:
+Calculate the area and perimeter of a rectangle
+Calculate the distance between distances using co-ordinates
